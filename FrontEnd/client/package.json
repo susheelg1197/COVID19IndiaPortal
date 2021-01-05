@@ -10,7 +10,7 @@
   "dependencies": {
     "@syncfusion/ej2-maps": "^18.1.42",
     "@syncfusion/ej2-vue-maps": "^18.1.42",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap-vue": "^2.8.0",
     "chart.js": "^2.9.3",
     "core-js": "^3.6.4",
